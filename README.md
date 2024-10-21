@@ -1,2 +1,2 @@
-# Watsapp-Status-feature
-This is to add new watsapp status feature
+# Moving code from eclipse to git
+This is to move code from eclipse to git
